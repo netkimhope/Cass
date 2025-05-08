@@ -28,7 +28,7 @@
   "autoCreateDB": false,
   "MongoConfig": {
     "status": true,
-    "uri": "monggodb"
+    "uri": "mongodb"
   },
   "discordBotToken": "",
   "discordClientID": "",
