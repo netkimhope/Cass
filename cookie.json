@@ -1,7 +1,7 @@
 [
   {
     "domain": ".facebook.com",
-    "expirationDate": 1781316346.429201,
+    "expirationDate": 1781393780.845402,
     "hostOnly": false,
     "httpOnly": true,
     "name": "sb",
@@ -11,11 +11,11 @@
     "session": false,
     "storeId": "0",
     "value": "rtXFZ8ShXWpQdp8tUB4ZRFBF",
-    "origin": "https://www.facebook.com"
+    "origin": "https://m.facebook.com"
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1781316330.763546,
+    "expirationDate": 1781419015.961397,
     "hostOnly": false,
     "httpOnly": true,
     "name": "datr",
@@ -25,7 +25,7 @@
     "session": false,
     "storeId": "0",
     "value": "xYgcaBow9U7MtL9tLEt9i3Oa",
-    "origin": "https://www.facebook.com"
+    "origin": "https://m.facebook.com"
   },
   {
     "domain": ".facebook.com",
@@ -39,11 +39,11 @@
     "session": false,
     "storeId": "0",
     "value": "en_US",
-    "origin": "https://www.facebook.com"
+    "origin": "https://m.facebook.com"
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1751940351,
+    "expirationDate": 1752043015,
     "hostOnly": false,
     "httpOnly": false,
     "name": "vpd",
@@ -53,7 +53,7 @@
     "session": false,
     "storeId": "0",
     "value": "v1%3B664x360x1.7004296779632568",
-    "origin": "https://www.facebook.com"
+    "origin": "https://m.facebook.com"
   },
   {
     "domain": ".facebook.com",
@@ -67,7 +67,7 @@
     "session": false,
     "storeId": "0",
     "value": "1",
-    "origin": "https://www.facebook.com"
+    "origin": "https://m.facebook.com"
   },
   {
     "domain": ".facebook.com",
@@ -81,11 +81,11 @@
     "session": false,
     "storeId": "0",
     "value": "1",
-    "origin": "https://www.facebook.com"
+    "origin": "https://m.facebook.com"
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1778292346.428748,
+    "expirationDate": 1778369780.843661,
     "hostOnly": false,
     "httpOnly": false,
     "name": "c_user",
@@ -95,11 +95,11 @@
     "session": false,
     "storeId": "0",
     "value": "61557030103517",
-    "origin": "https://www.facebook.com"
+    "origin": "https://m.facebook.com"
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1754532346.42903,
+    "expirationDate": 1754609780.845,
     "hostOnly": false,
     "httpOnly": true,
     "name": "fr",
@@ -108,12 +108,12 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "0tCnw602CbWxJ2D3Y.AWfjoTq1-SgbRMlF9WSY7qaSf5xTF7gSHu82CC1ExhCje10DOl4.BoHIjF..AAA.0.0.BoHWL2.AWc2j2DEmE8uRiC0aTWGDP-4V_c",
-    "origin": "https://www.facebook.com"
+    "value": "0tCnw602CbWxJ2D3Y.AWcHX90zAuLIRLAU9051w5kfnHxW6Rqd4gJgmkVwYtbPYV2QEBQ.BoHIjF..AAA.0.0.BoHpF0.AWcB5qnYW0JKmY9XLSnWcdPkJSk",
+    "origin": "https://m.facebook.com"
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1778292346.429331,
+    "expirationDate": 1778369780.845603,
     "hostOnly": false,
     "httpOnly": true,
     "name": "xs",
@@ -122,12 +122,12 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "38%3AtrdDGSXl05LRYQ%3A2%3A1746756344%3A-1%3A7943",
-    "origin": "https://www.facebook.com"
+    "value": "7%3AzxpAafhSl9UDow%3A2%3A1746833780%3A-1%3A7943",
+    "origin": "https://m.facebook.com"
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1778292351,
+    "expirationDate": 1778395015,
     "hostOnly": false,
     "httpOnly": false,
     "name": "fbl_st",
@@ -136,12 +136,12 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "100421339%3BT%3A29112605",
-    "origin": "https://www.facebook.com"
+    "value": "100439596%3BT%3A29114316",
+    "origin": "https://m.facebook.com"
   },
   {
     "domain": ".facebook.com",
-    "expirationDate": 1754532368,
+    "expirationDate": 1754635015,
     "hostOnly": false,
     "httpOnly": false,
     "name": "wl_cbv",
@@ -150,7 +150,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "v2%3Bclient_version%3A2808%3Btimestamp%3A1746756350",
-    "origin": "https://www.facebook.com"
+    "value": "v2%3Bclient_version%3A2809%3Btimestamp%3A1746859008",
+    "origin": "https://m.facebook.com"
   }
     ]
